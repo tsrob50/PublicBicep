@@ -1,7 +1,7 @@
 # PublicBicep
 Public repo for Azure Bicep projects
 
-List of Storage Account Skues used for Parameter video:  
+List of Storage Account SKU's used for Parameter video:  
   'Standard_LRS'  
   'Standard_GRS'  
   'Standard_RAGRS'  
