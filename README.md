@@ -10,3 +10,4 @@ List of Storage Account SKU's used for Parameter video:
   'Premium_ZRS'  
   'Standard_GZRS'  
  
+storageV2.bicep  Used for the Variables and Functions Video
